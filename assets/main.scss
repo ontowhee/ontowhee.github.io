@@ -1,0 +1,22 @@
+---
+---
+
+@import "minima";
+
+.contact-list,
+.social-media-list {
+  list-style: none;
+  margin-left: 0;
+  display: flex;
+  align-items: self-end;
+}
+
+.social-media-list li {
+  margin-right: 10px;
+}
+
+.footer-col-1,
+.footer-col-2 {
+  margin-right: 10px;
+  width: auto;
+}
