@@ -26,6 +26,3 @@ permalink: /brag/
 - North Bay Python 2025 - ["Djangonaut Space: A Mentorship Program For Open Source"](https://youtu.be/U1iHZGiqeJw)
 - PyLadies Conference 2024 - ["Enhance Your Tests With Property-based Testing"](https://www.youtube.com/watch?v=wdifOXeVEtw&list=PLOItnwPQ-eHxWh6Af6xRuKprSk_OBU0cL&index=27&pp=iAQB)
 - DjangoCon US 2024 Lightning Talk - "Djangonaut Space"
-
-### Resume
-See my work experience and more <a href="https://docs.google.com/document/d/1v65GI0p0C6Pi5Xb_TEzeIZVNdYfIQPm6BXcxCMe0ou4/edit?usp=sharing" target="_blank" rel="noopener noreferrer">here</a>.
