@@ -7,6 +7,10 @@ title: brag
 permalink: /brag/
 ---
 
+### Projects
+- [Django Contributor Analytics](https://django-contributor.ontowhee.com)
+    - An analytics tool to provide insights on contributions to the core Django web framework. Dokku + Django + PostgreSQL + HTMX + Bootstrap 5.
+
 ### Community Contributions
 - Space Reviewer Episode 5 - ["Deep Dive PR Review Of Django Ticket 36352"](https://www.youtube.com/watch?v=mPndbdezvJw)
 - [Djangonaut Space](https://djangonaut.space), Session Organizer (Aug-Dec 2024)
