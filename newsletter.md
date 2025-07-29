@@ -7,6 +7,6 @@ title: newsletter
 permalink: /newsletter/
 ---
 
-I write a weekly newsletter, mainly about the progress of my projects. I also share interesting tidbits about Django, PostgreSQL, open source, and more.
+I write a weekly newsletter, where I report stats on contributions to Django. I also share interesting tidbits about Django, PostgreSQL, open source, personal projects, and more.
 
 Sign up: [https://buttondown.com/ontowhee](https://buttondown.com/ontowhee)
