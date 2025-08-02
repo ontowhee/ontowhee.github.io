@@ -32,6 +32,7 @@ mastodon:
 - username: ontowhee
   instance: fosstodon.org
 linkedin_username: lilian-t-669902295
+rss: true
 
 # Build settings
 theme: minima
